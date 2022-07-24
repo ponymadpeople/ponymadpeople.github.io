@@ -21,7 +21,7 @@
     </style>
     <body>
     <h1>Welcome to PonyMadPeople!!!</h1>
-    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/horse.png" alt="horse in feild" width="300"><br>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/horse.png" alt="horse in feild" width="500"><br>
    <h2>Contents</h2>
    <ul>
        <li><a href="#about">About Us </a></li>
