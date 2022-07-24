@@ -9,7 +9,7 @@
         body{
             background-color:rgb(231, 248, 249);
             color:rgb(115, 4, 115);
-            font-family:cursive;
+            font-family:cursive, sans-serif;
         }
         h1 {
              color:rgb(73, 0, 176);
