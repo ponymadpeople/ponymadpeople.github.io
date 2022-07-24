@@ -7,7 +7,7 @@
     </head>
     <style>
         body{
-            background-color:rgb(242, 186, 217);
+            background-color:rgb(231, 248, 249);
             color:rgb(115, 4, 115);
             font-family:cursive;
         }
