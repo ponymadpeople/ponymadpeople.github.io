@@ -40,7 +40,7 @@
     <h2 id="basics">The Basics</h2>
     <h3>A Little Bit About Horses and Ponies</h3>
     <p>
-        Horses and ponies are mammals, wich means they give birth to live young and are warmblooded.Horses and ponies have four gaits  1) walk, a distinct four beat gait 2) trot, a two beat gait,   3) canter a three beat gait and finally 4) gallop the fastest  gait that has a four beat gait.
+        Horses and ponies are mammals, wich means they give birth to live young and are warmblooded. Horses and ponies have four gaits  1) walk, a distinct four beat gait 2) trot, a two beat gait,   3) canter a three beat gait and finally 4) gallop the fastest  gait that has a four beat gait.
     </p>
         <h3>Little Bit of History</h3>
     <p>
