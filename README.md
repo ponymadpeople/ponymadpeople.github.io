@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>PonyMadPeople</title>
+        <title>Ponymadpeople</title>
     </head>
     <style>
         body{
