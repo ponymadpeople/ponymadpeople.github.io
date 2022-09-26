@@ -27,6 +27,7 @@
        <li><a href="#about">About Us </a></li>
        <li><a href="#intro">Intro </a></li>
         <li><a href="#basics">The Basics </a></li>
+        <li><a href="#fun-stuff">Fun Stuff </a></li>
    </ul><br>
    
     <h2 id="about">About Us</h2>
@@ -45,7 +46,10 @@
         <h3>Little Bit of History</h3>
     <p>
 Unlike the horses of the present day the early "horses" were polydactyl, meaning several toed and were browsing animals that lived in forests. Genera such as <em>Sifrippus</em> and <em>Hyracotherium</em> had short faces, low-crowned teeth and three toes, each ending in one small hoof.
-    </p>
-
+    </p><br>
+    <h3 id="fun-stuff">Fun Stuff</h3>
+    <ul>
+    <li> Make a tack holder</li>
+    </ul>
     </body>
 </html>
