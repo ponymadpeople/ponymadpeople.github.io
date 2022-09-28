@@ -59,14 +59,23 @@ Unlike the horses of the present day the early "horses" were polydactyl, meaning
     <li>Lacht of your choice</li>
     <li>Hook wide enough for your bridle</li>
     <li>Screws</li>
+    <li>Plank of wood long enough to hang your bridle from</li>
     </ul>
     <h4>Tools</h4>
     <ul>
         <li>Electric Drill</li> 
         <li>Ruler</li>
         <li>Pencil</li>
-        <li>Drill Bit that fits your screws</li>
-    </ul>     
+        <li>Screw Driver Bit that fits your screws</li>
+        <li>Drill Bit suitable for wood</li>
+    </ul>
+        <ol>
+            <li>First, position your extra plank of wood a the end of the saw horses plank and line ud the hinge useing the pencil to mark the holes you'll need to drill.</li>
+            
+            
+            
+        </ol>
+
     
     </body>
 </html>
