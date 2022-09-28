@@ -53,12 +53,20 @@ Unlike the horses of the present day the early "horses" were polydactyl, meaning
     </ul><br>
     <h3>Build a tack holder</h3>
     <h4>Materials</h4>
-    <ol>
+    <ul>
     <li>Folding Saw Horse</li>
     <li>13mm Hinge</li>
     <li>Lacht of your choice</li>
     <li>Hook wide enough for your bridle</li>
-    </ol>
+    <li>Screws</li>
+    </ul>
+    <h4>Tools</h4>
+    <ul>
+        <li>Electric Drill</li> 
+        <li>Ruler</li>
+        <li>Pencil</li>
+        <li>Drill Bit that fits your screws</li>
+    </ul>     
     
     </body>
 </html>
